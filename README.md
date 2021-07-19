@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer security
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on computer security projects
-- 📫 How to reach me flyazz305@gmail.com
+- 📫 How to reach me badupaul10@gmail.com
 
 <!---
 ATLzone3/ATLzone3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
